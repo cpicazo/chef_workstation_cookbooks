@@ -1,6 +1,6 @@
-package 'cowsay' do
-	:install
-end
+#package 'cowsay' do
+#	:install
+#end
 
 package 'tree' do
 	:install
